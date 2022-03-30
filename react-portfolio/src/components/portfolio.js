@@ -16,7 +16,7 @@ export const Portfolio = () => {
                 <div className="row g-3">
                     <div className="col-12 col-md-6 col-lg-4">
                         <div className="card text-center h-100">
-                            <img src={groovyMovie} className="card-img-top" alt="trekstats"/>
+                            <img src={trekstats} className="card-img-top" alt="trekstats"/>
                             <div className="card-body">
                                 <h5 className="card-title text-uppercase fw-bold">Trekstats</h5>
                                 <p className="card-text">Travel application that allows a user to retrive information for travel, weather and map based on city using one application.</p>
@@ -41,7 +41,7 @@ export const Portfolio = () => {
 
                     <div class="col-12 col-md-6 col-lg-4">
                         <div class="card text-center h-100">
-                            <img src={musicReview} class="card-img-top" alt="weatherDashboard"/>
+                            <img src={weatherDashboard} class="card-img-top" alt="weatherDashboard"/>
                             <div class="card-body">
                                 <h5 class="card-title text-uppercase fw-bold">Weather Dashboard</h5>
                                 <p class="card-text">A weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. Use the OpenWeather One Call API to retrieve weather data for cities..</p>
@@ -53,7 +53,7 @@ export const Portfolio = () => {
 
                     <div class="col-12 col-md-6 col-lg-4">
                         <div class="card text-center h-100">
-                            <img src={teamProfile} class="card-img-top" alt="workdayScheduler"/>
+                            <img src={workdayScheduler} class="card-img-top" alt="workdayScheduler"/>
                             <div class="card-body">
                                 <h5 class="card-title text-uppercase fw-bold">Work Day Scheduler</h5>
                                 <p class="card-text">calendar application that allows a user to save events for each hour of the day by modifying starter code. </p>
