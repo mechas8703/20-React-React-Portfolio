@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/mechas8703/20-React-React-Portfolio/issues"
   },
-  "homepage": "https://github.com/mechas8703/20-React-React-Portfolio#readme",
+  "homepage": "https://mechas8703.github.io/20-React-React-Portfolio/",
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.1.1",
     "@testing-library/jest-dom": "^5.16.3",
