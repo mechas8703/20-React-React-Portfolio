@@ -1,0 +1,33 @@
+* {
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:  'Josefin Sans', sans-serif;
+  }
+  
+  :root {
+    --dark: black;
+    --light: #71A9F7;
+    --accent: #072AC8;
+    --white: #fff;
+  }
+  
+  /* NAVBAR STYLING */
+  #backgroundColor {
+    background-color: var(--light);
+    color: var(--accent);
+  }
+  
+  /* CONTACT STYLING */
+  #contactText{
+    color: var(--light) !important;
+  }
+  
+  /* FOOTER STYLING */
+  
+  #footer {
+    background-color: var(--accent);
+    color: var(--white)
+  }
+  
