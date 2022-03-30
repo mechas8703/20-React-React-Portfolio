@@ -17,8 +17,8 @@ export const Contact = () => {
                                 <Container>
                                     <h4 className='text-light bg-dark'>Contact Info</h4>
                                     <p className='text-light bg-dark'>Email: &nbsp;
-                                        <a href="mailto:lydiawdesign.com" className= "text-reset">
-                                             lydiawdesign.com
+                                        <a href="mailto:mechas8703@hotmail.com" className= "text-reset">
+                                             mechas8703@hotmail.com
                                         </a>
                                     </p>
                                     
