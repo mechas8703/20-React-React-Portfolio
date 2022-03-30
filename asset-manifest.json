@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mechas8703/20-React-React-Portfolio/static/css/main.212ea3ca.css",
+    "main.js": "/mechas8703/20-React-React-Portfolio/static/js/main.d520cd14.js",
+    "static/media/about_img.jpg": "/mechas8703/20-React-React-Portfolio/static/media/about_img.768ac4d295ba3d402c61.jpg",
+    "static/media/Weather Dashboard.JPG": "/mechas8703/20-React-React-Portfolio/static/media/Weather Dashboard.22c37fbac08a63c7bb36.JPG",
+    "static/media/Work day scheduler.JPG": "/mechas8703/20-React-React-Portfolio/static/media/Work day scheduler.1d4e040a0b9cb1c63338.JPG",
+    "static/media/Trekstats.JPG": "/mechas8703/20-React-React-Portfolio/static/media/Trekstats.2b6fb6eef386e705bb8f.JPG",
+    "static/media/E-Commerce-back-end.JPG": "/mechas8703/20-React-React-Portfolio/static/media/E-Commerce-back-end.82818a0f112996d2eae5.JPG",
+    "static/media/password generator screenshot.JPG": "/mechas8703/20-React-React-Portfolio/static/media/password generator screenshot.a640fbeddaf90560cfc3.JPG",
+    "static/media/noteTaker.JPG": "/mechas8703/20-React-React-Portfolio/static/media/noteTaker.3e3170b81a288c09ade1.JPG",
+    "index.html": "/mechas8703/20-React-React-Portfolio/index.html",
+    "main.212ea3ca.css.map": "/mechas8703/20-React-React-Portfolio/static/css/main.212ea3ca.css.map",
+    "main.d520cd14.js.map": "/mechas8703/20-React-React-Portfolio/static/js/main.d520cd14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.212ea3ca.css",
+    "static/js/main.d520cd14.js"
+  ]
+}
